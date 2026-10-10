@@ -10,7 +10,7 @@ This repository contains four HTML & CSS templates providing a comprehensive col
    - [Template-1 (Leon)](#template-1-leon)
    - [Template-2 (Kasper)](#template-2-kasper)
    - [Template-3 (Master)](#template-3-master)
-   - [Template-4 (Master)](#template-4-elzero)
+   - [Template-4 (Zero)](#template-4-zero)
 2. [How to Use](#how-to-use)
 3. [Contributions](#contributions)
 4. [License](#license)
@@ -21,19 +21,23 @@ This repository contains four HTML & CSS templates providing a comprehensive col
 
 ### Template-1 (Leon)
   - **[Explore template files](Template_1)**
-  - **[Live Preview](https://template-1-leon.netlify.app/)**
+  - **[Live Preview](https://leon.ahmedabdelhameed.workers.dev/)**
+  - **[Second Live Preview](https://template-1-leon.netlify.app/)**
 
 ### Template-2 (Kasper)
   - **[Explore template files](Template_2)**
-  - **[Live Preview](https://template-2-kasper.netlify.app/)**
+  - **[Live Preview](https://kasper.ahmedabdelhameed.workers.dev/)**
+  - **[Second Live Preview](https://template-2-kasper.netlify.app/)**
 
 ### Template-3 (Master)
   - **[Explore template files](Template_3)**
-  - **[Live Preview](https://template-3-master.netlify.app/)**
+  - **[Live Preview](https://master.ahmedabdelhameed.workers.dev/)**
+  - **[Second Live Preview](https://template-3-master.netlify.app/)**
 
-### Template-4 (Elzero)
+### Template-4 (Zero)
   - **[Explore template files](Template_4)**
-  - **[Live Preview](https://template4-elzero.netlify.app/)**
+  - **[Live Preview](https://zero.ahmedabdelhameed.workers.dev/)**
+  - **[Second Live Preview](https://template4-elzero.netlify.app/)**
 
 ---
 
@@ -46,7 +50,7 @@ This repository contains four HTML & CSS templates providing a comprehensive col
 
 ## Contributions
 
-Feel free to fork the repository and contribute by adding more templates or improving the exsiting ones. Pull requests are welcomed!
+Feel free to fork the repository and contribute by adding more templates or improving the existing ones. Pull requests are welcomed!
 
 ---
 
