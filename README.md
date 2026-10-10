@@ -21,23 +21,23 @@ This repository contains four HTML & CSS templates providing a comprehensive col
 
 ### Template-1 (Leon)
   - **[Explore template files](Template_1)**
-  - **[Live Preview](https://leon.ahmedabdelhameed.workers.dev/)**
-  - **[Second Live Preview](https://template-1-leon.netlify.app/)**
+  - **[Primary Live Preview](https://leon.ahmedabdelhameed.workers.dev/)**
+  - **[Secondary Live Preview](https://template-1-leon.netlify.app/)**
 
 ### Template-2 (Kasper)
   - **[Explore template files](Template_2)**
-  - **[Live Preview](https://kasper.ahmedabdelhameed.workers.dev/)**
-  - **[Second Live Preview](https://template-2-kasper.netlify.app/)**
+  - **[Primary Live Preview](https://kasper.ahmedabdelhameed.workers.dev/)**
+  - **[Secondary Live Preview](https://template-2-kasper.netlify.app/)**
 
 ### Template-3 (Master)
   - **[Explore template files](Template_3)**
-  - **[Live Preview](https://master.ahmedabdelhameed.workers.dev/)**
-  - **[Second Live Preview](https://template-3-master.netlify.app/)**
+  - **[Primary Live Preview](https://master.ahmedabdelhameed.workers.dev/)**
+  - **[Secondary Live Preview](https://template-3-master.netlify.app/)**
 
 ### Template-4 (Zero)
   - **[Explore template files](Template_4)**
-  - **[Live Preview](https://zero.ahmedabdelhameed.workers.dev/)**
-  - **[Second Live Preview](https://template4-elzero.netlify.app/)**
+  - **[Primary Live Preview](https://zero.ahmedabdelhameed.workers.dev/)**
+  - **[Secondary Live Preview](https://template4-elzero.netlify.app/)**
 
 ---
 
