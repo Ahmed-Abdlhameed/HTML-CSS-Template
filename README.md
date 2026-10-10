@@ -10,7 +10,7 @@ This repository contains four HTML & CSS templates providing a comprehensive col
    - [Template-1 (Leon)](#template-1-leon)
    - [Template-2 (Kasper)](#template-2-kasper)
    - [Template-3 (Master)](#template-3-master)
-   - [Template-4 (Master)](#template-4-zero)
+   - [Template-4 (Zero)](#template-4-zero)
 2. [How to Use](#how-to-use)
 3. [Contributions](#contributions)
 4. [License](#license)
