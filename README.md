@@ -1,4 +1,4 @@
-# 4 HTML & CSS Templates Focusing on Separate Design Aspects & Techniques:
+# 4 Different HTML & CSS Templates Focusing on Separate Design Aspects & Techniques:
 
 This repository contains four HTML & CSS templates providing a comprehensive collection of designs. Each template focuses on different web development techniques and layout structures
 
@@ -11,9 +11,9 @@ This repository contains four HTML & CSS templates providing a comprehensive col
    - [Template-2 (Kasper)](#template-2-kasper)
    - [Template-3 (Master)](#template-3-master)
    - [Template-4 (Zero)](#template-4-zero)
-2. [How to Use](#how-to-use)
-3. [Contributions](#contributions)
-4. [License](#license)
+2. [Getting Started (How to Use)](#getting-started-how-to-use)
+3. [Contributions (Adding Your Own Templates or Features)](#contributions--adding-your-own-templates-or-features)
+4. [License & Author](#license--author)
 
 ---
 
@@ -41,19 +41,19 @@ This repository contains four HTML & CSS templates providing a comprehensive col
 
 ---
 
-## How to Use
+## Getting Started (How to Use)
 
-1. Navigate to template directory to review its files.
+1. Navigate to the template directory to review its files.
 3. You can simply view the live preview of the template by visiting the link in the README file.
 
 ---
 
-## Contributions
+## Contributions (Adding Your Own Templates or Features)
 
 Feel free to fork the repository and contribute by adding more templates or improving the existing ones. Pull requests are welcomed!
 
 ---
 
-## License
+## License & Author
 
 This repository is for personal documentation purposes. Feel free to use or distribute its content as you wish.
