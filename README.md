@@ -12,7 +12,7 @@ This repository contains four HTML & CSS templates providing a comprehensive col
    - [Template-3 (Master)](#template-3-master)
    - [Template-4 (Zero)](#template-4-zero)
 2. [Getting Started (How to Use)](#getting-started-how-to-use)
-3. [Contributions (Adding Your Own Templates or Features)](#contributions--adding-your-own-templates-or-features)
+3. [Contributions (Adding Your Own Templates or Features)](#contributions-adding-your-own-templates-or-features)
 4. [License & Author](#license--author)
 
 ---
@@ -56,4 +56,4 @@ Feel free to fork the repository and contribute by adding more templates or impr
 
 ## License & Author
 
-This repository is for personal documentation purposes. Feel free to use or distribute its content as you wish.
+This repository is for personal documentation purposes. Feel free to use or distribute its content as you wish. Built by **Ahmed Abdelhameed**. Find me on [GitHub](https://github.com/Ahmed-Abdlhameed).
